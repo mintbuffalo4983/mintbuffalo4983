@@ -17,4 +17,3 @@ my favorite operating systems on order from most favorite to least favorite:
 +windows 10
 +arch linux
 +windows 11
----
