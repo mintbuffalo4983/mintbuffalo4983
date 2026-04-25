@@ -1,6 +1,3 @@
-wait...
-*italic*
-**bold**
-***bold italic***
+Howdy!
 ---
-^seporator hopehully.
+***
