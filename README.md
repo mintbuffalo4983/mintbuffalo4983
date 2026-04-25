@@ -8,4 +8,4 @@ In order from most intrest to least intrest, I like:
 + the weather channel
 + PREVUE guide
 ***
-Honestly, the only reason i created this account is because of the **VERY** strict rate limits.
+Honestly, the only reason I created this account as early as I did is because of the **VERY** strict rate limits.
