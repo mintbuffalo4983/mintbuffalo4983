@@ -16,6 +16,3 @@ And here's my favorite operating systems in order from most favorite to least fa
 + Arch linux
 + Windows 11
 ***
-Honestly, the only reason I created this account as early as I did is because of the **VERY** strict rate limits.
-***
----
