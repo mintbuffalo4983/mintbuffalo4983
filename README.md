@@ -4,15 +4,15 @@ I'm a computer nerd.
 ***
 In order from most intrest to least intrest, I like:
 + TV broadcasts
-+ object shows
-+ the weather channel
++ The Weather Channel
++ PREVUE Guide
++ Object shows
 + Computers
-+ PREVUE guide
 ---
 And here's my favorite operating systems in order from most favorite to least favorite:
-+ Debian linux
++ Debian
++ Arch
 + Ubuntu
 + Windows 10
-+ Arch linux
 + Windows 11
 ***
